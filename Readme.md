@@ -1,6 +1,5 @@
 <h1 align="center">Weather App</h1> 
 
-![weather app cover](https://user-images.githubusercontent.com/91532881/166434542-76727ccb-0c98-4646-84fb-58e86d7ec3ff.png)
 
 <h2 align="center">Web application to show the current and upcoming week weather forecast.</h2>    
 
