@@ -13,17 +13,6 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>     
 </p>
 
-    
-  <p align="center"> 
-    <br />&#10023;
-    <a href="#Demo">View Demo</a>   &#10023;  
-    <a href="https://github.com/m-sehrawat/Weather-App/issues">Report Bug</a>    &#10023;
-    <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
-    <a href="#Contact">Author</a> &#10023;
-  </p>
-
-
-
 <br/>
 
 
